@@ -12,7 +12,7 @@
 Welcome to **RobsMart**, a modern, responsive e-commerce platform designed to showcase various product categories including clothes, shoes, soft drinks, cooking oil, and computers. This site is fully front-end based and hosted on GitHub Pages.
 
 ## 🔗 Live Demo
-[Click here to visit the live site](https://ntaboisoe.github.io/web-ecommerce-app/)
+[Click here to visit the live site](https://profound-kheer-20c62a.netlify.app/)
 
 ## 📁 Features
 - 🏠 **Home Page**: Showcases product categories dynamically from a JSON file.
